@@ -768,7 +768,7 @@ body {
 
 .cs-whatif__slider {
   flex: 1;
-  -webkit-appearance: none;
+  --webkit-appearance: none;
   height: 4px;
   background: #333;
   border-radius: 2px;
