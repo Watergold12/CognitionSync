@@ -1,0 +1,79 @@
+[
+    {
+        "amount": 3200,
+        "locationMismatch": false,
+        "frequencyPerMin": 1,
+        "merchantCategory": "Grocery",
+        "merchantRisk": "low",
+        "riskScore": 15,
+        "timeAnomaly": false,
+        "hour": 14,
+        "cardLast4": "4521"
+    },
+    {
+        "amount": 8500,
+        "locationMismatch": true,
+        "frequencyPerMin": 2,
+        "merchantCategory": "Jewelry",
+        "merchantRisk": "high",
+        "riskScore": 78,
+        "timeAnomaly": false,
+        "hour": 11,
+        "cardLast4": "7832"
+    },
+    {
+        "amount": 12000,
+        "locationMismatch": true,
+        "frequencyPerMin": 6,
+        "merchantCategory": "Cash Advance",
+        "merchantRisk": "high",
+        "riskScore": 92,
+        "timeAnomaly": true,
+        "hour": 3,
+        "cardLast4": "9015"
+    },
+    {
+        "amount": 450,
+        "locationMismatch": false,
+        "frequencyPerMin": 1,
+        "merchantCategory": "Gas Station",
+        "merchantRisk": "low",
+        "riskScore": 8,
+        "timeAnomaly": false,
+        "hour": 17,
+        "cardLast4": "3341"
+    },
+    {
+        "amount": 6700,
+        "locationMismatch": true,
+        "frequencyPerMin": 3,
+        "merchantCategory": "Electronics",
+        "merchantRisk": "medium",
+        "riskScore": 65,
+        "timeAnomaly": false,
+        "hour": 10,
+        "cardLast4": "5589"
+    },
+    {
+        "amount": 200,
+        "locationMismatch": false,
+        "frequencyPerMin": 8,
+        "merchantCategory": "Online Retail",
+        "merchantRisk": "medium",
+        "riskScore": 55,
+        "timeAnomaly": false,
+        "hour": 20,
+        "cardLast4": "1127"
+    },
+    {
+        "amount": 15000,
+        "locationMismatch": true,
+        "frequencyPerMin": 1,
+        "merchantCategory": "Travel",
+        "merchantRisk": "medium",
+        "riskScore": 88,
+        "timeAnomaly": true,
+        "hour": 2,
+        "cardLast4": "6643"
+    }
+]

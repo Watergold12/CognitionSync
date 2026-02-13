@@ -1,0 +1,10 @@
+[
+  { "patientId": "PT-1001", "heartRate": 78, "systolic": 120, "diastolic": 78, "bloodSugar": 95, "oxygenSat": 98, "bodyTemp": 36.6 },
+  { "patientId": "PT-1002", "heartRate": 125, "systolic": 155, "diastolic": 95, "bloodSugar": 210, "oxygenSat": 94, "bodyTemp": 38.8 },
+  { "patientId": "PT-1003", "heartRate": 88, "systolic": 130, "diastolic": 85, "bloodSugar": 145, "oxygenSat": 97, "bodyTemp": 37.0 },
+  { "patientId": "PT-1004", "heartRate": 145, "systolic": 185, "diastolic": 110, "bloodSugar": 280, "oxygenSat": 89, "bodyTemp": 39.2 },
+  { "patientId": "PT-1005", "heartRate": 65, "systolic": 115, "diastolic": 72, "bloodSugar": 88, "oxygenSat": 99, "bodyTemp": 36.4 },
+  { "patientId": "PT-1006", "heartRate": 110, "systolic": 145, "diastolic": 92, "bloodSugar": 190, "oxygenSat": 91, "bodyTemp": 37.8 },
+  { "patientId": "PT-1007", "heartRate": 72, "systolic": 118, "diastolic": 75, "bloodSugar": 102, "oxygenSat": 96, "bodyTemp": 36.8 },
+  { "patientId": "PT-1008", "heartRate": 160, "systolic": 200, "diastolic": 125, "bloodSugar": 350, "oxygenSat": 85, "bodyTemp": 40.1 }
+]

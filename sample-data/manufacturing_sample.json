@@ -1,0 +1,10 @@
+[
+  { "machineLoad": 95, "strokeRate": 55, "defectPercent": 1.2, "furnaceTemp": 848, "dieWear": 45, "platingThickness": 7.5, "hardness": 260, "productionOutput": 1100 },
+  { "machineLoad": 110, "strokeRate": 60, "defectPercent": 2.5, "furnaceTemp": 862, "dieWear": 72, "platingThickness": 8.1, "hardness": 250, "productionOutput": 980 },
+  { "machineLoad": 125, "strokeRate": 48, "defectPercent": 3.8, "furnaceTemp": 830, "dieWear": 85, "platingThickness": 6.2, "hardness": 235, "productionOutput": 870 },
+  { "machineLoad": 88, "strokeRate": 52, "defectPercent": 0.8, "furnaceTemp": 851, "dieWear": 30, "platingThickness": 9.0, "hardness": 270, "productionOutput": 1200 },
+  { "machineLoad": 130, "strokeRate": 45, "defectPercent": 4.5, "furnaceTemp": 815, "dieWear": 92, "platingThickness": 5.8, "hardness": 220, "productionOutput": 750 },
+  { "machineLoad": 100, "strokeRate": 58, "defectPercent": 1.5, "furnaceTemp": 845, "dieWear": 55, "platingThickness": 7.8, "hardness": 255, "productionOutput": 1050 },
+  { "machineLoad": 78, "strokeRate": 65, "defectPercent": 0.5, "furnaceTemp": 852, "dieWear": 20, "platingThickness": 10.0, "hardness": 280, "productionOutput": 1300 },
+  { "machineLoad": 115, "strokeRate": 50, "defectPercent": 3.0, "furnaceTemp": 870, "dieWear": 78, "platingThickness": 6.5, "hardness": 245, "productionOutput": 900 }
+]
