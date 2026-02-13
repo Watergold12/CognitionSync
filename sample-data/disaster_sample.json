@@ -1,0 +1,16 @@
+[
+  { "sensorId": "SENS-101", "region": "Zone A — Coastal", "seismicLevel": 2.1, "windSpeed": 45, "rainfallIntensity": 20, "floodRisk": 15, "populationDensity": 3200, "alertSeverity": 1, "timestamp": "2026-02-13T06:00:00Z" },
+  { "sensorId": "SENS-102", "region": "Zone D — Urban", "seismicLevel": 3.8, "windSpeed": 90, "rainfallIntensity": 55, "floodRisk": 40, "populationDensity": 12500, "alertSeverity": 2, "timestamp": "2026-02-13T06:30:00Z" },
+  { "sensorId": "SENS-103", "region": "Zone A — Coastal", "seismicLevel": 5.4, "windSpeed": 135, "rainfallIntensity": 75, "floodRisk": 82, "populationDensity": 8500, "alertSeverity": 4, "timestamp": "2026-02-13T07:00:00Z" },
+  { "sensorId": "SENS-104", "region": "Zone C — Mountain", "seismicLevel": 6.8, "windSpeed": 60, "rainfallIntensity": 85, "floodRisk": 30, "populationDensity": 1200, "alertSeverity": 3, "timestamp": "2026-02-13T07:30:00Z" },
+  { "sensorId": "SENS-105", "region": "Zone E — River Basin", "seismicLevel": 1.5, "windSpeed": 30, "rainfallIntensity": 90, "floodRisk": 95, "populationDensity": 6800, "alertSeverity": 5, "timestamp": "2026-02-13T08:00:00Z" },
+  { "sensorId": "SENS-106", "region": "Zone B — Inland", "seismicLevel": 4.2, "windSpeed": 180, "rainfallIntensity": 60, "floodRisk": 55, "populationDensity": 4500, "alertSeverity": 3, "timestamp": "2026-02-13T08:30:00Z" },
+  { "sensorId": "SENS-107", "region": "Zone D — Urban", "seismicLevel": 7.3, "windSpeed": 200, "rainfallIntensity": 95, "floodRisk": 88, "populationDensity": 15000, "alertSeverity": 5, "timestamp": "2026-02-13T09:00:00Z" },
+  { "sensorId": "SENS-108", "region": "Zone A — Coastal", "seismicLevel": 2.5, "windSpeed": 55, "rainfallIntensity": 30, "floodRisk": 25, "populationDensity": 2800, "alertSeverity": 1, "timestamp": "2026-02-13T09:30:00Z" },
+  { "sensorId": "SENS-109", "region": "Zone C — Mountain", "seismicLevel": 5.9, "windSpeed": 75, "rainfallIntensity": 40, "floodRisk": 35, "populationDensity": 900, "alertSeverity": 2, "timestamp": "2026-02-13T10:00:00Z" },
+  { "sensorId": "SENS-110", "region": "Zone E — River Basin", "seismicLevel": 3.0, "windSpeed": 125, "rainfallIntensity": 80, "floodRisk": 78, "populationDensity": 7200, "alertSeverity": 4, "timestamp": "2026-02-13T10:30:00Z" },
+  { "sensorId": "SENS-111", "region": "Zone B — Inland", "seismicLevel": 1.8, "windSpeed": 40, "rainfallIntensity": 15, "floodRisk": 10, "populationDensity": 3500, "alertSeverity": 1, "timestamp": "2026-02-13T11:00:00Z" },
+  { "sensorId": "SENS-112", "region": "Zone D — Urban", "seismicLevel": 8.1, "windSpeed": 220, "rainfallIntensity": 98, "floodRisk": 96, "populationDensity": 18000, "alertSeverity": 5, "timestamp": "2026-02-13T11:30:00Z" },
+  { "sensorId": "SENS-113", "region": "Zone A — Coastal", "seismicLevel": 4.5, "windSpeed": 110, "rainfallIntensity": 65, "floodRisk": 60, "populationDensity": 5500, "alertSeverity": 2, "timestamp": "2026-02-13T12:00:00Z" },
+  { "sensorId": "SENS-114", "region": "Zone E — River Basin", "seismicLevel": 6.2, "windSpeed": 150, "rainfallIntensity": 88, "floodRisk": 92, "populationDensity": 9800, "alertSeverity": 4, "timestamp": "2026-02-13T12:30:00Z" }
+]

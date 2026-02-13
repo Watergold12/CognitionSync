@@ -3,6 +3,8 @@ import { Routes, Route, NavLink, Navigate } from 'react-router-dom';
 import ManufacturingPage from './pages/ManufacturingPage';
 import CreditCardPage from './pages/CreditCardPage';
 import HealthcarePage from './pages/HealthcarePage';
+import LogisticsPage from './pages/LogisticsPage';
+import DisasterPage from './pages/DisasterPage';
 import MasterControl from './components/MasterControl';
 
 export default function App() {
@@ -29,6 +31,12 @@ export default function App() {
             <NavLink to="/healthcare" className={({ isActive }) => `cs-header__nav-link ${isActive ? 'active' : ''}`}>
               Healthcare
             </NavLink>
+            <NavLink to="/logistics" className={({ isActive }) => `cs-header__nav-link ${isActive ? 'active' : ''}`}>
+              Logistics
+            </NavLink>
+            <NavLink to="/disaster" className={({ isActive }) => `cs-header__nav-link ${isActive ? 'active' : ''}`}>
+              Disaster
+            </NavLink>
           </nav>
         </div>
         <div className="cs-header__controls">
@@ -46,6 +54,8 @@ export default function App() {
         <Route path="/manufacturing" element={<ManufacturingPage machineOn={machineOn} automationOn={automationOn} />} />
         <Route path="/credit" element={<CreditCardPage machineOn={machineOn} automationOn={automationOn} />} />
         <Route path="/healthcare" element={<HealthcarePage machineOn={machineOn} automationOn={automationOn} />} />
+        <Route path="/logistics" element={<LogisticsPage machineOn={machineOn} automationOn={automationOn} />} />
+        <Route path="/disaster" element={<DisasterPage machineOn={machineOn} automationOn={automationOn} />} />
       </Routes>
     </div>
   );
