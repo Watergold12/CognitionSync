@@ -537,6 +537,10 @@ body {
 
 /* ── File Upload ───────────────────────────────────────────── */
 .cs-upload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
   border: 1px dashed var(--cs-border);
   border-radius: var(--cs-radius-md);
   padding: var(--cs-space-xl);
