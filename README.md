@@ -20,6 +20,8 @@ The system demonstrates situational awareness across three real‑world domains:
 * 🏭 Screw Manufacturing
 * 💳 Credit Card Fraud Monitoring
 * 🏥 Healthcare Patient Monitoring
+* 🚚 Logistics Supply Chain
+* 🌪 Disaster Alert System
 
 ---
 
@@ -128,6 +130,66 @@ Patient vital monitoring with risk escalation logic.
 
 ---
 
+# 🚚 Domain 4 – Logistics Supply Chain
+
+Automated shipment routing and fleet health monitoring.
+
+### 🔍 Monitors
+
+* Route Efficiency
+* Delay Time
+* Fuel Consumption
+* Vehicle Health
+* Weather Risk
+
+### ⚙ Automation Rules
+
+* Route Efficiency < 70% → Recalculate
+* Delay Time > 60 min → Flag
+* Fuel Consumption > 45 L/100km → Warning
+* Vehicle Health < 50% → Stop
+* Weather Risk > 70% → Review
+
+### 📊 Includes
+
+* Operational Score Panel
+* Shipment Tracker Log
+* Fuel Consumption Analytics
+* Delay vs Efficiency Trend
+* Manual Routing Approval
+
+---
+
+# 🌪 Domain 5 – Disaster Alert System
+
+Automated emergency event processing with human escalation protocols.
+
+### 🔍 Monitors
+
+* Seismic Activity (Richter)
+* Wind Speed
+* Rainfall Intensity
+* Flood Risk Index
+* Population Density Impact
+
+### ⚙ Automation Rules
+
+* Seismic Level > 5.0 → Alert
+* Wind Speed > 120 km/h → High Alert
+* Flood Risk > 70% → Emergency
+* Rainfall > 80% → Warning
+* Critical Severity → Human Authority Escalation
+
+### 📊 Includes
+
+* Threat Level Assessment
+* Seismic & Wind Trend Graph
+* Flood Risk Visualizer
+* Alert Confidence Meter
+* Emergency Escalation Modal
+
+---
+
 # 🔥 Core System Features
 
 * 🟢 Machine Power ON/OFF Toggle
@@ -189,11 +251,15 @@ src/
  │    └── WhatIfPanel.jsx
  ├── engines/
  │    ├── creditEngine.js
+ │    ├── disasterEngine.js
  │    ├── healthcareEngine.js
+ │    ├── logisticsEngine.js
  │    └── manufacturingEngine.js
  ├── pages/
  │    ├── CreditCardPage.jsx
+ │    ├── DisasterPage.jsx
  │    ├── HealthcarePage.jsx
+ │    ├── LogisticsPage.jsx
  │    └── ManufacturingPage.jsx
  ├── App.jsx
  ├── index.css
